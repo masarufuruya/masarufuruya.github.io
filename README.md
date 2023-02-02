@@ -10,6 +10,9 @@
 |最終学歴|東京電機大学情報メディア学科|
 
 ## 各種アカウント
+<p>
+<a href="https://github.com/masarufuruya" target="_blank"><img alt="Github" src="https://img.shields.io/badge/masarufuruya-%2312100E.svg?&style=flat&logo=Github&logoColor=white" /></a>
+</p>
 
 ---
 

@@ -22,11 +22,17 @@
 
 ## 保有スキル
 
+
 ---
 
 ## 技術スタック
 
 ### 言語
+<p>
+  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=Ruby&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+</p>
 
 ### フレームワーク・その他
 

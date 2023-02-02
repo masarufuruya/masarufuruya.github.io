@@ -14,6 +14,8 @@
   <a href="https://github.com/masarufuruya" target="_blank"><img alt="Github" src="https://img.shields.io/badge/masarufuruya-%2312100E.svg?&style=flat&logo=Github&logoColor=white" /></a>
   <a href="https://twitter.com/enzerubank" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@enzerubank-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" /></a>
   <a href="https://qiita.com/masarufuruya" target="_blank"><img alt="Qiita" src="https://img.shields.io/badge/masarufuruya-55C500.svg?&style=flat&logo=qiita&logoColor=white" /></a>
+  <a href="https://zenn.dev/masarufuruya" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/masarufuruya-3EA8FF.svg?&style=flat&logo=Zenn&logoColor=white" /></a>
+  <a href="https://speakerdeck.com/masarufuruya" target="_blank"><img alt="SpeakerDeck" src="https://img.shields.io/badge/masarufuruya-009287.svg?&style=flat&logo=SpeakerDeck&logoColor=white" /></a>
 </p>
 
 ---

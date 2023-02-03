@@ -35,6 +35,9 @@
 </p>
 
 ### フレームワーク・その他
+<p>
+  <img alt="Ruby-on-Rails" src="https://img.shields.io/badge/-Rails-CC0000?style=flat&logo=Ruby-on-Rails&logoColor=white" />
+</p>
 
 ---
 

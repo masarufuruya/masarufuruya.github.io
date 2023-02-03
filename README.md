@@ -30,8 +30,10 @@
 ### 言語
 <p>
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=Ruby&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-7377ad?style=flat&logo=PHP&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/-Go-cab69b?style=flat&logo=Go&logoColor=white" />
 </p>
 
 ### フレームワーク・その他
@@ -42,8 +44,6 @@
   <img alt="React Native" src="https://img.shields.io/badge/-React Native-45b8d8?style=flat&logo=react&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
-</p>
-
 </p>
 
 ---

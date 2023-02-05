@@ -21,7 +21,9 @@
 ---
 
 ## 保有スキル
-
+Ruby on Rails・CakePHPでのサーバーサイド開発
+JavaScript / TypeScript + React / Vue.js でのフロントエンド開発・設計
+フロントエンド開発基盤の整備（テスト環境、パフォーマンス計測など）
 
 ---
 

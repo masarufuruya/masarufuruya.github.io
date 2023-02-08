@@ -46,6 +46,8 @@
 ### 副業
 
 ### 技術記事投稿
+* note
+  * [https://note.com/masaru_furuya/](https://note.com/masaru_furuya/)
 
 ### 勉強会での登壇
 

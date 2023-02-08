@@ -46,8 +46,17 @@
 ### 副業
 
 ### 技術記事投稿
-* note
   * [https://note.com/masaru_furuya/](https://note.com/masaru_furuya/)
+
+- **Zenn**
+    - 2022/02 現在 88 記事、 5,500LIKE
+    - [https://zenn.dev/masarufuruya](https://zenn.dev/masarufuruya)
+- **Qiita**
+    - 2023/02 現在、121 記事、 5,663 LGTM
+    - [https://qiita.com/masarufuruya](https://qiita.com/masarufuruya)
+- **note**
+    - 主にふりかえりを記載。2023/02 現在 , 42 記事、 290 いいね
+    - [https://note.com/masaru_furuya](https://note.com/masaru_furuya)
 
 ### 勉強会での登壇
 

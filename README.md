@@ -28,7 +28,7 @@
 ---
 
 ## 技術スタック
-* Ruby on Rails/React/Next.js/Vue.js/TypeScript/CakePHP/PHP/Firebase/Docker/GCP/AWS/Go/Laravel
+* Ruby on Rails/DDD/React/Next.js/Vue.js/TypeScript/CakePHP/PHP/Firebase/Docker/GCP/AWS/Go/Laravel
 
 ---
 

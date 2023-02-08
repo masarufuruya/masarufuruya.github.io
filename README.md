@@ -46,8 +46,6 @@
 ### 副業
 
 ### 技術記事投稿
-  * [https://note.com/masaru_furuya/](https://note.com/masaru_furuya/)
-
 - **Zenn**
     - 2022/02 現在 88 記事、 5,500LIKE
     - [https://zenn.dev/masarufuruya](https://zenn.dev/masarufuruya)

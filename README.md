@@ -24,6 +24,7 @@
 * Ruby on Rails・CakePHPでのサーバーサイド開発
 * JavaScript / TypeScript + React / Vue.js でのフロントエンド開発・設計
 * フロントエンド開発基盤の整備（テスト環境、パフォーマンス計測など）
+* 会議やイベントにおけるファシリテーション能力
 
 ---
 
@@ -47,7 +48,7 @@
 
 ### 技術記事投稿
 - **Zenn**
-    - 2022/02 現在 88 記事、 5,500LIKE
+    - 2022/02 現在 88 記事、 154LIKE
     - [https://zenn.dev/masarufuruya](https://zenn.dev/masarufuruya)
 - **Qiita**
     - 2023/02 現在、121 記事、 5,663 LGTM
@@ -60,7 +61,13 @@
 - [ドラッカー風エクササイズを導入して エンジニアチームの相互理解を促進した話](https://speakerdeck.com/masarufuruya/doratukafeng-ekusasaizuwodao-ru-site-enziniatimufalsexiang-hu-li-jie-wocu-jin-sitahua)
 - [未経験からデータエンジニアに チャレンジして学んだ大切なこと](https://speakerdeck.com/masarufuruya/wei-jing-yan-karatetaensiniani-tiyarensisitexue-ntada-qie-nakoto)
 
-### 勉強会の開催
+### イベントの開催
+
+- **社内イベントの企画・運営**
+  * OST（オープンスペーステクノロジー）
+  * 週次ふりかえり（Fun・Done・Learn + Try）
+  * 開発夕会
+  * 開発チームLT会
 
 ### その他
 - **Podcast**

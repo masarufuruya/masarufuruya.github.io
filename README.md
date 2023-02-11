@@ -60,14 +60,19 @@
 ### 勉強会での登壇
 - [ドラッカー風エクササイズを導入して エンジニアチームの相互理解を促進した話](https://speakerdeck.com/masarufuruya/doratukafeng-ekusasaizuwodao-ru-site-enziniatimufalsexiang-hu-li-jie-wocu-jin-sitahua)
 - [未経験からデータエンジニアに チャレンジして学んだ大切なこと](https://speakerdeck.com/masarufuruya/wei-jing-yan-karatetaensiniani-tiyarensisitexue-ntada-qie-nakoto)
+- **We Are JavaScripters!（2017/07）**
+  - [非SPAで小さく始めるReactアーキテクチャ](https://speakerdeck.com/masarufuruya/fei-spadexiao-sakushi-merureactakitekutiya)
 
 ### イベントの開催
+
+- **勉強会を企画・運営**
 
 - **社内イベントの企画・運営**
   * OST（オープンスペーステクノロジー）
   * 週次ふりかえり（Fun・Done・Learn + Try）
   * 開発夕会
   * 開発チームLT会
+  * 技術書輪読会（再開予定）
 
 ### その他
 - **Podcast**

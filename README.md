@@ -62,6 +62,9 @@
 - [未経験からデータエンジニアに チャレンジして学んだ大切なこと](https://speakerdeck.com/masarufuruya/wei-jing-yan-karatetaensiniani-tiyarensisitexue-ntada-qie-nakoto)
 - **We Are JavaScripters!（2017/07）**
   - [非SPAで小さく始めるReactアーキテクチャ](https://speakerdeck.com/masarufuruya/fei-spadexiao-sakushi-merureactakitekutiya)
+  
+- **Gotanda.unity (2017/06）
+  - [Web+スマホ+VRで一人ブレストアプリを作ってみた](https://speakerdeck.com/masarufuruya/web-plus-sumaho-plus-vrde-ren-buresutoapuriwozuo-tutemita)
 
 ### イベントの開催
 

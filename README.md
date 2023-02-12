@@ -63,8 +63,11 @@
 - **We Are JavaScripters!（2017/07）**
   - [非SPAで小さく始めるReactアーキテクチャ](https://speakerdeck.com/masarufuruya/fei-spadexiao-sakushi-merureactakitekutiya)
   
-- **Gotanda.unity (2017/06）
+- **Gotanda.unity (2017/06）**
   - [Web+スマホ+VRで一人ブレストアプリを作ってみた](https://speakerdeck.com/masarufuruya/web-plus-sumaho-plus-vrde-ren-buresutoapuriwozuo-tutemita)
+
+- 2017/06
+  - [ReactNativeでIOSアプリのプッシュ通知を実装する](https://speakerdeck.com/masarufuruya/reactnativedeiosapurifalseputusiyutong-zhi-woshi-zhuang-suru)
 
 ### イベントの開催
 

@@ -58,8 +58,10 @@
     - [https://note.com/masaru_furuya](https://note.com/masaru_furuya)
 
 ### 勉強会での登壇
-- [ドラッカー風エクササイズを導入して エンジニアチームの相互理解を促進した話](https://speakerdeck.com/masarufuruya/doratukafeng-ekusasaizuwodao-ru-site-enziniatimufalsexiang-hu-li-jie-wocu-jin-sitahua)
 - [未経験からデータエンジニアに チャレンジして学んだ大切なこと](https://speakerdeck.com/masarufuruya/wei-jing-yan-karatetaensiniani-tiyarensisitexue-ntada-qie-nakoto)
+
+- **エンジニアと人生コミュニティのLT会** (2022/03)
+  - [ドラッカー風エクササイズを導入して エンジニアチームの相互理解を促進した話](https://speakerdeck.com/masarufuruya/doratukafeng-ekusasaizuwodao-ru-site-enziniatimufalsexiang-hu-li-jie-wocu-jin-sitahua)
 
 - **React勉強会＋LT大会** (2017/11)
   - [ReactNativeで勉強会のビューワーアプリを作ってみて学んだ知見](https://speakerdeck.com/masarufuruya/reactnativedemian-qiang-hui-falsebiyuwaapuriwozuo-tutemitexue-ndazhi-jian)
@@ -72,9 +74,6 @@
   
 - **Gotanda.unity (2017/06）**
   - [Web+スマホ+VRで一人ブレストアプリを作ってみた](https://speakerdeck.com/masarufuruya/web-plus-sumaho-plus-vrde-ren-buresutoapuriwozuo-tutemita)
-
-- 2017/06
-  - [ReactNativeでIOSアプリのプッシュ通知を実装する](https://speakerdeck.com/masarufuruya/reactnativedeiosapurifalseputusiyutong-zhi-woshi-zhuang-suru)
 
 ### イベントの開催
 

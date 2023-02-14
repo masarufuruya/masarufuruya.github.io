@@ -61,6 +61,9 @@
 - [ドラッカー風エクササイズを導入して エンジニアチームの相互理解を促進した話](https://speakerdeck.com/masarufuruya/doratukafeng-ekusasaizuwodao-ru-site-enziniatimufalsexiang-hu-li-jie-wocu-jin-sitahua)
 - [未経験からデータエンジニアに チャレンジして学んだ大切なこと](https://speakerdeck.com/masarufuruya/wei-jing-yan-karatetaensiniani-tiyarensisitexue-ntada-qie-nakoto)
 
+- **React勉強会＋LT大会** (2017/11)
+  - [ReactNativeで勉強会のビューワーアプリを作ってみて学んだ知見](https://speakerdeck.com/masarufuruya/reactnativedemian-qiang-hui-falsebiyuwaapuriwozuo-tutemitexue-ndazhi-jian)
+
 - **VR Talks!（2017/07）** 
   - [Watsonを使って音声入力できるVRブレストアプリを作っている話](https://speakerdeck.com/masarufuruya/watsonwoshi-tuteyin-sheng-ru-li-dekiruvrburesutoapuriwozuo-tuteiruhua)
 

@@ -60,6 +60,12 @@
 ### 勉強会での登壇
 - [未経験からデータエンジニアに チャレンジして学んだ大切なこと](https://speakerdeck.com/masarufuruya/wei-jing-yan-karatetaensiniani-tiyarensisitexue-ntada-qie-nakoto)
 
+- **社内LT（2022/05）** 
+  - [BigQuery Scriptingを利用してCloudSQLのテーブルを転送する仕組みを作った話](https://speakerdeck.com/masarufuruya/bigquery-scriptingwoli-yong-sitecloudsqlfalsetehuruwozhuan-song-surushi-zu-miwozuo-tutahua)
+
+- **エンジニアと人生コミュニティのLT会**（2022/04）
+  - [未経験からデータエンジニアに チャレンジして学んだ大切なこと](https://speakerdeck.com/masarufuruya/wei-jing-yan-karatetaensiniani-tiyarensisitexue-ntada-qie-nakoto)
+
 - **エンジニアと人生コミュニティのLT会** (2022/03)
   - [ドラッカー風エクササイズを導入して エンジニアチームの相互理解を促進した話](https://speakerdeck.com/masarufuruya/doratukafeng-ekusasaizuwodao-ru-site-enziniatimufalsexiang-hu-li-jie-wocu-jin-sitahua)
 

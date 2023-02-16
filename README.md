@@ -58,6 +58,10 @@
     - [https://note.com/masaru_furuya](https://note.com/masaru_furuya)
 
 ### 勉強会での登壇
+
+- **エンジニアと人生コミュニティのLT会**（2022/07）
+  - [ SQL利用者を3倍に増やしデータの民主化を推進した話](https://speakerdeck.com/masarufuruya/sqlli-yong-zhe-wo3bei-nizeng-yasitetafalsemin-zhu-hua-wotui-jin-sitahua)
+
 - **社内LT（2022/05）** 
   - [BigQuery Scriptingを利用してCloudSQLのテーブルを転送する仕組みを作った話](https://speakerdeck.com/masarufuruya/bigquery-scriptingwoli-yong-sitecloudsqlfalsetehuruwozhuan-song-surushi-zu-miwozuo-tutahua)
 

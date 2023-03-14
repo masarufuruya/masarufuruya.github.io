@@ -44,6 +44,7 @@
   - 平均 5〜8人チームでのスクラム開発
   
 - **プロジェクト詳細：**
+  - 新規開発PJの要件定義・設計・実装・QAまで一貫して担当
   - React/Next.jsでのSPA 開発
   - Ruby, Ruby on Rails での API 開発
   - Line Messaging APIを使ったLine bot開発
